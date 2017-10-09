@@ -1,0 +1,18 @@
+{
+  "name": "web_scrap_codechef",
+  "version": "1.0.0",
+  "description": "Fetch top codechef rankers of NSIT in long",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nshul",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.1",
+    "node-phantom": "^0.2.5",
+    "phantom": "^4.0.5",
+    "request": "^2.83.0"
+  }
+}
